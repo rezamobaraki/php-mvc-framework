@@ -3,7 +3,7 @@
 
 ![PHP](default-pic.jpg)
 
-Hello friends of these are [Reza Mobaraki](https://www.linkedin.com/in/reza-mobaraki/) | [Miss.mary](https://www.linkedin.com/in/maryam-ostovar/)
+Hello friends of these are [Reza Mobaraki](https://www.linkedin.com/in/reza-mobaraki/) | [Maryam Ostovar](https://www.linkedin.com/in/maryam-ostovar/)
 
 ---
 
