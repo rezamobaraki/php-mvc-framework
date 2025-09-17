@@ -7,7 +7,7 @@ namespace app\core;
 /**
  * Class View
  *
- * @author Mr.Rezoo <rezam578@gmail.com>
+ * @author Reza Mobaraki <rezam578@gmail.com>
  * @package app\core
  */
 class View

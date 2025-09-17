@@ -9,7 +9,7 @@ use app\core\Model;
 /**
  * Class Form
  *
- * @author Mr.Rezoo <rezam578@gmail.com>
+ * @author Reza Mobaraki <rezam578@gmail.com>
  * @package app\core\form
  */
 class Form
