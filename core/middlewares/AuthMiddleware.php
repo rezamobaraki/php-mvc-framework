@@ -10,7 +10,7 @@ use app\core\exceptions\ForbiddenException;
 /**
  * Class AuthMiddleware
  *
- * @author Mr.Rezoo <rezam578@gmail.com>
+ * @author Reza Mobaraki <rezam578@gmail.com>
  * @package app\core\middlewares
  */
 class AuthMiddleware extends BaseMiddleware

@@ -1,5 +1,5 @@
 {
-  "name": "mr.rezoo/phpmvc-framework",
+  "name": "rezamobaraki/phpmvc-framework",
   "autoload": {
     "psr-4": {
       "app\\": "./"
@@ -7,7 +7,7 @@
   },
   "authors": [
     {
-      "name": "Mr.Rezoo",
+      "name": "Reza Mobaraki",
       "email": "rezam578@gmail.com"
     }
   ],

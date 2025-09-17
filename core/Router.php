@@ -7,7 +7,7 @@ use app\core\exceptions\NotFoundException;
 /**
  * Class Router
  *
- * @author Mr.Rezoo <rezam578@gmail.com>
+ * @author Reza Mobaraki <rezam578@gmail.com>
  * @package app\core
  */
 class Router

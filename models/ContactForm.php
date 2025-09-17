@@ -8,7 +8,7 @@ use app\core\Model;
 /**
  * Class ContactForm
  *
- * @author Mr.Rezoo <rezam578@gmail.com>
+ * @author Reza Mobaraki <rezam578@gmail.com>
  * @package app\models
  */
 class ContactForm extends Model

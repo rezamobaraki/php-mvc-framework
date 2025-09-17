@@ -1,14 +1,14 @@
 {
-    "name": "mr.rezoo/php-mvc-core",
+    "name": "rezamobaraki/php-mvc-core",
     "description": "sample core for php mvc framework",
     "autoload": {
         "psr-4": {
-            "MrRezoo\\PhpMvcCore\\": "src/"
+            "rezamobaraki\\PhpMvcCore\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "Mr.Rezoo",
+            "name": "Reza Mobaraki",
             "email": "rezam578@gmail.com"
         }
     ],

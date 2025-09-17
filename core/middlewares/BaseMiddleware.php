@@ -7,7 +7,7 @@ namespace app\core\middlewares;
 /**
  * Class BaseMiddleware
  *
- * @author Mr.Rezoo <rezam578@gmail.com>
+ * @author Reza Mobaraki <rezam578@gmail.com>
  * @package app\core\middlewares
  */
 abstract class BaseMiddleware
