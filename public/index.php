@@ -52,4 +52,4 @@ $app->router->get('/profile', [AuthController::class, 'profile']);
 $app->run();
 
 
-//"MrRezoo\\PhpmvcFramework\\": "src/"
+//"rezamobaraki\\PhpmvcFramework\\": "src/"
