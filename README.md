@@ -3,7 +3,7 @@
 
 ![PHP](default-pic.jpg)
 
-Hello friends of these are [Mr.Rezoo](https://www.linkedin.com/in/reza-mobaraki/) | [Miss.mary](https://www.linkedin.com/in/maryam-ostovar-64b497210/)
+Hello friends of these are [Reza Mobaraki](https://www.linkedin.com/in/reza-mobaraki/) | [Miss.mary](https://www.linkedin.com/in/maryam-ostovar-64b497210/)
 
 ---
 
@@ -89,9 +89,8 @@ section
 
 ## Contributors
 
-* [Mr.Rezoo](https://github.com/MrRezoo)
+* [Reza Mobaraki](https://github.com/rezamobaraki)
 * [Miss.maryam](https://github.com/maryost1998)
-* [Jalallinux](https://github.com/jalallinux)
 
 ## License
 
